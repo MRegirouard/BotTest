@@ -1,0 +1,5 @@
+hi
+
+new text in /a/hi.txt
+
+I hope this is automatically added to the right directory
